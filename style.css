@@ -1,12 +1,12 @@
 body {
     font-family: system-ui;
-    background: #8cd875;
+    background: #8DC69E;
     color: black;
     text-align: center;
     font-family: serif;
   }
   header{
-    background-color: green;
+    background-color: #429259;
      display:flex;
     align-items: center;
     justify-content: space-around;
