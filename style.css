@@ -18,19 +18,22 @@ body {
 
 .praga{
   width: 30%;
-  align-items: flex-start;
+  display: flex;
 }
 
 .percevejo{
   width: 30%;
+  display: flex;
 }
 
 .lagartas{
   width: 30%
+  d
 }
 
 .helico{
   width: 30%;
+  display: flex;
 }
 
 .mosca{
