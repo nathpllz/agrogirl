@@ -45,12 +45,11 @@ body {
 }
 
 footer{
-  background-color: #429259 
-     display:flex;
+  background-color:#429259;
+    display: flex;
     align-items: center;
-    justify-content: space-around;
-    font-family: serif;
-    font-size: large;
-    margin-top: 10%;
-  
+    justify-content:space-around;
+    font-family:serif;
+    font-size:large ;
+   
 }
