@@ -46,5 +46,10 @@ body {
 
 footer{
   background-color: darkgreen;
-  width: 40%;
+     display:flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: serif;
+    font-size: large;
+  
 }
