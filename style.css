@@ -1,7 +1,17 @@
 body {
     font-family: system-ui;
-    background: #8cd875
-    ;
+    background: #8cd875;
     color: black;
     text-align: center;
   }
+  header{
+    background-color: green;
+     display:flex;
+    align-items: center;
+
+}
+
+
+.praga{
+    width: 100%;
+}
