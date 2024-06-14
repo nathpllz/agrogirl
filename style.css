@@ -15,8 +15,10 @@ body {
 
 }
 
+
 .praga{
   width: 30%;
+  align-content: first baseline;
 }
 
 .percevejo{
