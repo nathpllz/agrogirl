@@ -15,6 +15,10 @@ body {
 
 }
 
+section {
+  display: flex;
+}
+
 
 .praga{
   width: 30%;
