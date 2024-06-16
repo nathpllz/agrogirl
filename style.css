@@ -17,6 +17,11 @@ body {
 
 section {
   display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: space-around;
+  flex-direction: column;
 }
 
 
