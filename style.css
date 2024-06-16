@@ -12,6 +12,7 @@ body {
     justify-content: space-around;
     font-family: serif;
     font-size: large;
+    margin: inherit
 
 }
 .titulo {
