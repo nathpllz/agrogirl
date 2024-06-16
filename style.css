@@ -7,12 +7,12 @@ body {
   }
   header{
     background-color: #429259;
-     display:flex;
+    display: flex;
     align-items: center;
-    justify-content: space-around;
     font-family: serif;
     font-size: large;
-    margin: inherit
+    margin: inherit;
+    flex-direction: column;
 
 }
 .titulo {
