@@ -1,26 +1,24 @@
 body {
-    font-family: system-ui;
-    background: #8DC69E;
-    color: black;
-    text-align: center;
-    font-family: serif;
-  }
-  header{
-    background-color: #429259;
-    display: flex;
-    align-items: center;
-    font-family: serif;
-    font-size: large;
-    margin: inherit;
-    flex-direction: column;
+  font-family: system-ui;
+  background: #8DC69E;
+  color: black;
+  text-align: center;
+  font-family: serif;
+}
+
+header {
+  background-color: #429259;
+  display: flex;
+  align-items: center;
+  font-family: serif;
+  font-size: large;
+  margin: inherit;
+  flex-direction: column;
 
 }
+
 .titulo {
-  display: flex;
-    flex-direction: row;
-    align-content: center;
-    justify-content: space-evenly;
-    text-align: justify
+  text-align: justify;
 }
 
 section {
@@ -33,44 +31,52 @@ section {
 }
 
 
-.praga{
-  width: 20%;
-  align-items: center;
+.praga {
+  width: 50%;
 }
 
-.percevejo{
+.percevejo {
   width: 30%;
-  align-items: center;
 }
 
-.lagartas{
+.lagartas {
   width: 30%
-  
 }
 
-.helico{
+.helico {
   width: 30%;
+}
+
+.mosca {
+  width: 30%;
+}
+
+.coros {
+  width: 30%;
+}
+
+footer {
+  background-color: #429259;
+  display: flex;
   align-items: center;
+  justify-content: space-around;
+  font-family: serif;
+  font-size: large;
+  margin-top: 10%;
 }
 
-.mosca{
-  width: 30%;
-}
 
-.coros{
-  width: 30%;
-}
 
-footer{
-  background-color:#429259;
+
+
+@media screen and (min-width: 1024px) {
+  .titulo {
     display: flex;
-    align-items: center;
-    justify-content:space-around;
-    font-family:serif;
-    font-size:large ;
-   margin-top: 10%;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+  }
+  .praga {
+    width: 20%;
+  }
 }
-
-
-
-@media screen (min-width: 1024px);
