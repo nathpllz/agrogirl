@@ -73,6 +73,4 @@ footer{
 
 
 
-@media screen {(min-width: 1024px);
-  
-}
+@media screen (min-width: 1024px);
