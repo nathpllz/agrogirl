@@ -65,7 +65,12 @@ footer {
   margin-top: 10%;
 }
 
-
+.botao {
+  background-color: lightgreen;
+  padding: 12px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}
 
 
 
