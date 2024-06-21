@@ -71,5 +71,5 @@ footer{
    margin-top: 10%;
 }
 
-@media screen (min-width: 1024px)
+@media screen and (min-width: 1024px)
 
